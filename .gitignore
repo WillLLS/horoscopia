@@ -1,0 +1,9 @@
+output_images/*
+illustration/*
+draft_scripts/*
+.venv/*
+__pycache__/*
+simply_mono_2/*
+API_instagram.txt
+speech/*
+posts/*
